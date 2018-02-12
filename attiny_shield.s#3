@@ -4823,7 +4823,7 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <busses>
 </busses>
 <nets>
-<net name="SCK" class="0">
+<net name="N$1" class="0">
 <segment>
 <wire x1="48.26" y1="144.78" x2="48.26" y2="160.02" width="0.1524" layer="91"/>
 <wire x1="48.26" y1="160.02" x2="-20.32" y2="160.02" width="0.1524" layer="91"/>
@@ -4849,7 +4849,7 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <pinref part="J5" gate="G$1" pin="6"/>
 </segment>
 </net>
-<net name="MISO" class="0">
+<net name="84_5" class="0">
 <segment>
 <wire x1="50.8" y1="144.78" x2="50.8" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="157.48" x2="-22.86" y2="157.48" width="0.1524" layer="91"/>
@@ -4873,7 +4873,7 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <pinref part="J5" gate="G$1" pin="5"/>
 </segment>
 </net>
-<net name="MOSI" class="0">
+<net name="84_6" class="0">
 <segment>
 <wire x1="53.34" y1="144.78" x2="53.34" y2="154.94" width="0.1524" layer="91"/>
 <wire x1="53.34" y1="154.94" x2="-25.4" y2="154.94" width="0.1524" layer="91"/>
@@ -4973,7 +4973,7 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <label x="134.62" y="76.2" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="VCC_5V" class="0">
+<net name="VCC" class="0">
 <segment>
 <wire x1="60.96" y1="96.52" x2="60.96" y2="78.74" width="0.1524" layer="91"/>
 <label x="60.96" y="96.52" size="1.778" layer="95" rot="R180" xref="yes"/>
